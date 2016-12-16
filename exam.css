@@ -42,3 +42,8 @@
 .moveRight {
     padding-left: 20px;
 }
+
+body {
+    padding-right: 40px;
+    padding-left: 40px;
+}
